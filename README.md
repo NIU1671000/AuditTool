@@ -2,6 +2,10 @@
 
 Herramienta CLI para realizar auditorías técnicas básicas y comprobaciones de hardening sobre servicios y aplicaciones web accesibles mediante HTTP/HTTPS.
 
+## Autor
+
+Bo Shao
+
 ## Instalación
 
 Antes de ejecutar la herramienta, hay que situarse desde la terminal en la carpeta del proyecto que contiene el paquete `audit_tool`.
